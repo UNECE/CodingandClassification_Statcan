@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CodingandClassification_Statcan.iml" filepath="$PROJECT_DIR$/.idea/CodingandClassification_Statcan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fasttext_project/.idea/fasttext_project.iml" filepath="$PROJECT_DIR$/../fasttext_project/.idea/fasttext_project.iml" />
     </modules>
   </component>
 </project>
